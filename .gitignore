@@ -1,0 +1,7 @@
+# vault git ignore list
+.metadata/
+*/bin/
+*/.settings/
+*.class
+*.bak
+*.log
